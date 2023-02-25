@@ -4,5 +4,5 @@ version = "0.0.1"
 dependencies = ["fastapi"]
 
 [project.optional-dependencies]
-dev = ["pip-tools"]
+dev = ["pip-tools", "black", "isort", "mypy", "flake8"]
 test = ["pytest"]

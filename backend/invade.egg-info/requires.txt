@@ -2,6 +2,10 @@ fastapi
 
 [dev]
 pip-tools
+black
+isort
+mypy
+flake8
 
 [test]
 pytest
