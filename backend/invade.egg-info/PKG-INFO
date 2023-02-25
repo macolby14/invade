@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: invade
+Version: 0.0.1
+Provides-Extra: dev
+Provides-Extra: test

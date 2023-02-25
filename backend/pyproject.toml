@@ -1,0 +1,8 @@
+[project]
+name = "invade"
+version = "0.0.1"
+dependencies = ["fastapi"]
+
+[project.optional-dependencies]
+dev = ["pip-tools"]
+test = ["pytest"]

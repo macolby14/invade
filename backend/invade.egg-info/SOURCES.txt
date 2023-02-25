@@ -1,0 +1,7 @@
+main.py
+pyproject.toml
+invade.egg-info/PKG-INFO
+invade.egg-info/SOURCES.txt
+invade.egg-info/dependency_links.txt
+invade.egg-info/requires.txt
+invade.egg-info/top_level.txt

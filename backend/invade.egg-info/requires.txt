@@ -1,0 +1,7 @@
+fastapi
+
+[dev]
+pip-tools
+
+[test]
+pytest
