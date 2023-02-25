@@ -1,8 +1,8 @@
 ## Shell
 
-- [ ] Frontend in React
-- [ ] Backend in FastAPI
-- [ ] Frontend can call backend in React
+- [x] Frontend in React
+- [x] Backend in FastAPI
+- [x] Frontend can call backend in React
 - [ ] Backend creates a session cookie
 - [ ] Backend can establish a Websocket connection that itentifies the user
 - [ ] Backend creates a user
