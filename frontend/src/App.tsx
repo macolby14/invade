@@ -5,9 +5,7 @@ function App() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const resp = await fetch("http://localhost:8000/api/").then((resp) =>
-        resp.json()
-      );
+      const resp = await fetch("/api/").then((resp) => resp.json());
       setBackendResp(resp.message);
     };
 
